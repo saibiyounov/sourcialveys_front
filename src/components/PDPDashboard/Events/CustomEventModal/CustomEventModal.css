@@ -1,0 +1,31 @@
+.container_statistics{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+/* label{
+    color: "#505050";
+    font-size: 0.9rem;
+    margin-left: 3px;
+} */
+
+.form-check-input input{
+    color: #2174B9;
+}
+
+.form-check-input:checked {
+    background-color: #2174b9;
+    border-color: #2174b9;
+}
+
+.specLabel div label{
+    color: #505050;
+    font-size: 0.9rem;
+    margin-left: 3px;
+}
+
+.modal-header .btn-close {
+    color: #2174B9;
+    padding: .5rem .5rem;
+    margin: -.5rem -.5rem -.5rem auto;
+}

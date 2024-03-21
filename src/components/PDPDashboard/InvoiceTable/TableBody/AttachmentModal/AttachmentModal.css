@@ -1,0 +1,25 @@
+.attachmentEditModal__title{
+    margin: 0 0 15px 0px;
+    border-bottom: 2px solid #888888;
+}
+.attachmentEditModal__title h2{
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-left: 5px;
+    color: #888888;
+}
+.attachmentEditModal__body{
+    min-height: 50px ;
+    margin: 10px 0 10px 5px;
+}
+.attachmentEditModal__footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-top: 2px solid #888888;
+    padding-top: 10px;
+}
+
+.cm__confirmBtn{
+    margin-right: 10px;
+}

@@ -1,0 +1,56 @@
+.label_add {
+    margin: 0px 37px;
+    text-align: center;
+    background-color: rgb(200, 176, 230);
+    border-radius: 21px;
+    font-size: 1rem;
+    padding: 17px 29px;
+}
+.typeLine{
+    display: flex;
+    justify-content: space-between;
+    margin: 3px 0px;
+}
+.typeLine p{
+    color: #809FB8;
+    font-size:1rem;
+    margin: auto 0px;
+}
+.space{
+    width: 30%;
+}
+.specElement {
+    white-space: nowrap;
+    text-align: end;
+}
+
+.iconStyle{
+    margin: auto 7px;
+    color: #2174B9;
+    cursor: pointer;
+}
+.selectStyle{
+    margin: 25px 0px;
+    color:#2174B9 !important;
+    text-align: center;
+    width: 100%;
+    border: 1px solid #809fb866;
+    font-size: 0.9rem;
+    border-radius: 3px;
+    padding: 7px
+}
+
+.rightSide_container{
+    border: 1px solid  rgba(217,225,231,0.8);
+    border-radius: 12px;
+}
+
+.specMargin{
+    margin-right: 7px;
+}
+.list {
+    width: 100%;
+    user-select: none;
+    display: flex;
+    justify-content: space-between;
+  }
